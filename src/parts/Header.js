@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./UNTRON.png";
+import logo from "../UNTRON.png";
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import { Navbar } from "react-bootstrap";
 import { Nav } from "react-bootstrap";
