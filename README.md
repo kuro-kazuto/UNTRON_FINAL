@@ -1,3 +1,30 @@
+#UAS REKAYASA PERANGKAT LUNAK
+
+Assalamualaikum Wr, Wb.
+
+Perkenalkan saya, Galih Aji Pambudi (3332180058) Dari Jurusan Teknik Elektro 2018 FT UNTIRTA.
+
+Pada Video kali ini, saya membuat tutorial tentang React app dan bagaimana cara untuk menguploadnya pada github dan fleek.
+
+Hal ini dilakukan sebagai UAS Mata Kuliah Rekayasa Perangkat Lunak.
+
+Jika ada Kritik, Saran, dan Pertanyaan silahkan tulis di kolom komentar.
+
+Terimakasih.  
+
+link github : https://github.com/kuro-kazuto/UNTRON_FINAL
+link Demo_fleek : https://icy-sunset-7415.on.fleek.co/
+
+
+#LINK 
+
+•	Youtube         : https://youtu.be/3dxJ7yhJkqE
+
+•	Repo_Github     : https://github.com/kuro-kazuto/UNTRON_FINAL
+
+•	Demo_Fleek      : https://icy-sunset-7415.on.fleek.co/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
