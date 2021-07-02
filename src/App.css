@@ -88,13 +88,42 @@
   font-family: Roboto;
   font-size: 12pt;
   padding-top: 10px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   text-align: center;
 }
 .Text-bgn {
   color: white;
   font-family: Roboto;
   text-align: center;
+}
+
+.Text-about {
+  color: white;
+  font-family: Roboto;
+  text-align: right;
+
+}
+
+.Text-aboutup {
+  color: white;
+  font-family: Roboto;
+  text-align: right;
+  margin-top: 300px;
+}
+.Text-aboutbottom {
+  color: white;
+  font-family: Roboto;
+  text-align: right;
+  margin-bottom: 100px;
+}
+
+.motto {
+  color: white;
+  font-family: Roboto;
+  font-style: italic;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 100px;
 }
 
 .Text-black {
@@ -120,6 +149,14 @@
   font-size: 18pt;
  
   
+}
+
+.title-clock {
+  color: black;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 10pt;
 }
 
 .clock {
@@ -163,4 +200,11 @@
   top: 15px;
   border-left:solid 2px #000;
     
+}
+
+.bodyabout {
+  background-image:    url(../src/Foto.JPG);
+  background-size:     cover;                      
+  background-repeat:   no-repeat;
+  
 }

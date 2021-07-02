@@ -34,7 +34,7 @@ export default class Clock extends React.Component {
     const { title } = this.props;
     return (
       <div className={"clock"}>
-        <h3>{title}</h3>
+        <h3 className="title-clock">{title}</h3>
         <div className={"analog-clock"}>
           <div className={"dial seconds"} style={secondsStyle} />
           <div className={"dial minutes"} style={minutesStyle} />

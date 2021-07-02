@@ -9,7 +9,7 @@ export default class LandingPages extends Component {
     return (
       <>
         <Header></Header>
-        <body>
+        
           <div class="jumbotron text-center" style={{ backgroundImage: `url(${bgn})` }} >
          
             <img src={logo} className="App-logo-background" alt="logo" />
@@ -77,7 +77,7 @@ export default class LandingPages extends Component {
                   </div>
               </div>
           </div>
-        </body>
+        
         <Footer></Footer>
       </>
     );
