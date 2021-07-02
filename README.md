@@ -1,4 +1,4 @@
-#UAS REKAYASA PERANGKAT LUNAK
+# UAS REKAYASA PERANGKAT LUNAK
 
 Assalamualaikum Wr, Wb.
 
@@ -16,13 +16,15 @@ link github : https://github.com/kuro-kazuto/UNTRON_FINAL
 link Demo_fleek : https://icy-sunset-7415.on.fleek.co/
 
 
-#LINK 
+# LINK 
 
 •	Youtube         : https://youtu.be/3dxJ7yhJkqE
 
 •	Repo_Github     : https://github.com/kuro-kazuto/UNTRON_FINAL
 
 •	Demo_Fleek      : https://icy-sunset-7415.on.fleek.co/
+
+
 
 
 # Getting Started with Create React App
