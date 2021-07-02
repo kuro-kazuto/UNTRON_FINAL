@@ -12,8 +12,7 @@ Jika ada Kritik, Saran, dan Pertanyaan silahkan tulis di kolom komentar.
 
 Terimakasih.  
 
-link github : https://github.com/kuro-kazuto/UNTRON_FINAL
-link Demo_fleek : https://icy-sunset-7415.on.fleek.co/
+
 
 
 # LINK 
